@@ -16,6 +16,8 @@ ARC is required.
 
 ## Installation
 
+**Note: not yet available in the public repository**
+
 TAITestURLProtocol is available through [CocoaPods](http://cocoapods.org), to install
 it simply add the following line to your Podfile:
 
